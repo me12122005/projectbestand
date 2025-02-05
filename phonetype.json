@@ -1,0 +1,192 @@
+[
+    {
+      "id": 1,
+      "name": "Samsung Galaxy S23",
+      "description": "Een high-end smartphone met een Snapdragon 8 Gen 2 en een 6,1-inch AMOLED-scherm.",
+      "price": 899.99,
+      "isAvailable": true,
+      "releaseDate": "2023-02-01",
+      "imageUrl": "https://example.com/galaxy-s23.jpg",
+      "category": "Flagship",
+      "features": ["5G", "AMOLED-scherm", "120Hz refresh rate", "5000mAh batterij"],
+      "manufacturer": {
+        "id": 101,
+        "name": "Samsung",
+        "country": "Zuid-Korea",
+        "foundedYear": 1938,
+        "logoUrl": "https://example.com/samsung-logo.jpg",
+        "isPublic": true
+      }
+    },
+    {
+      "id": 2,
+      "name": "Apple iPhone 14 Pro",
+      "description": "Apple's premium model met een Super Retina XDR-display en Dynamic Island.",
+      "price": 1099.00,
+      "isAvailable": true,
+      "releaseDate": "2022-09-16",
+      "imageUrl": "https://example.com/iphone-14-pro.jpg",
+      "category": "Flagship",
+      "features": ["A16 Bionic-chip", "ProMotion 120Hz", "48MP camera", "iOS 16"],
+      "manufacturer": {
+        "id": 102,
+        "name": "Apple",
+        "country": "Verenigde Staten",
+        "foundedYear": 1976,
+        "logoUrl": "https://example.com/apple-logo.jpg",
+        "isPublic": true
+      }
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 7",
+      "description": "Google's eigen smartphone met een Tensor G2-chip en geavanceerde AI-mogelijkheden.",
+      "price": 649.00,
+      "isAvailable": true,
+      "releaseDate": "2022-10-13",
+      "imageUrl": "https://example.com/pixel-7.jpg",
+      "category": "Mid-range",
+      "features": ["Stock Android", "Tensor G2", "50MP camera", "IP68-certificering"],
+      "manufacturer": {
+        "id": 103,
+        "name": "Google",
+        "country": "Verenigde Staten",
+        "foundedYear": 1998,
+        "logoUrl": "https://example.com/google-logo.jpg",
+        "isPublic": true
+      }
+    },
+    {
+      "id": 4,
+      "name": "OnePlus 11",
+      "description": "Een krachtige flagship killer met een Snapdragon 8 Gen 2 en 100W snelladen.",
+      "price": 799.00,
+      "isAvailable": true,
+      "releaseDate": "2023-01-09",
+      "imageUrl": "https://example.com/oneplus-11.jpg",
+      "category": "Flagship",
+      "features": ["120Hz AMOLED", "Hasselblad camera", "Snapdragon 8 Gen 2", "5000mAh batterij"],
+      "manufacturer": {
+        "id": 104,
+        "name": "OnePlus",
+        "country": "China",
+        "foundedYear": 2013,
+        "logoUrl": "https://example.com/oneplus-logo.jpg",
+        "isPublic": true
+      }
+    },
+    {
+      "id": 5,
+      "name": "Xiaomi 13 Pro",
+      "description": "Een premium toestel met Leica-camera's en een 1-inch sensor.",
+      "price": 899.00,
+      "isAvailable": true,
+      "releaseDate": "2023-03-10",
+      "imageUrl": "https://example.com/xiaomi-13-pro.jpg",
+      "category": "Flagship",
+      "features": ["Leica camera's", "Snapdragon 8 Gen 2", "120Hz LTPO", "120W snelladen"],
+      "manufacturer": {
+        "id": 105,
+        "name": "Xiaomi",
+        "country": "China",
+        "foundedYear": 2010,
+        "logoUrl": "https://example.com/xiaomi-logo.jpg",
+        "isPublic": true
+      }
+    },
+    {
+      "id": 6,
+      "name": "Sony Xperia 1 IV",
+      "description": "Een smartphone voor content creators met een 4K 120Hz OLED-scherm en geavanceerde camera's.",
+      "price": 1199.00,
+      "isAvailable": false,
+      "releaseDate": "2022-06-15",
+      "imageUrl": "https://example.com/xperia-1-iv.jpg",
+      "category": "Flagship",
+      "features": ["4K OLED 120Hz", "Zeiss camera's", "3.5mm jack", "IP68-certificering"],
+      "manufacturer": {
+        "id": 106,
+        "name": "Sony",
+        "country": "Japan",
+        "foundedYear": 1946,
+        "logoUrl": "https://example.com/sony-logo.jpg",
+        "isPublic": true
+      }
+    },
+    {
+      "id": 7,
+      "name": "Motorola Edge 30 Ultra",
+      "description": "Een van de eerste telefoons met een 200MP hoofdcamera.",
+      "price": 999.00,
+      "isAvailable": true,
+      "releaseDate": "2022-09-08",
+      "imageUrl": "https://example.com/motorola-edge-30-ultra.jpg",
+      "category": "Flagship",
+      "features": ["200MP camera", "Snapdragon 8+ Gen 1", "144Hz OLED", "125W snelladen"],
+      "manufacturer": {
+        "id": 107,
+        "name": "Motorola",
+        "country": "Verenigde Staten",
+        "foundedYear": 1928,
+        "logoUrl": "https://example.com/motorola-logo.jpg",
+        "isPublic": true
+      }
+    },
+    {
+      "id": 8,
+      "name": "Nothing Phone (1)",
+      "description": "Een unieke telefoon met een transparant design en LED-notificaties.",
+      "price": 469.00,
+      "isAvailable": true,
+      "releaseDate": "2022-07-12",
+      "imageUrl": "https://example.com/nothing-phone-1.jpg",
+      "category": "Mid-range",
+      "features": ["Glyph Interface", "120Hz OLED", "Stock Android", "50MP camera"],
+      "manufacturer": {
+        "id": 108,
+        "name": "Nothing",
+        "country": "Verenigd Koninkrijk",
+        "foundedYear": 2020,
+        "logoUrl": "https://example.com/nothing-logo.jpg",
+        "isPublic": true
+      }
+    },
+    {
+      "id": 9,
+      "name": "Realme GT 3",
+      "description": "Een supersnelle telefoon met 240W snelladen en een krachtige processor.",
+      "price": 599.00,
+      "isAvailable": true,
+      "releaseDate": "2023-04-15",
+      "imageUrl": "https://example.com/realme-gt-3.jpg",
+      "category": "Mid-range",
+      "features": ["240W snelladen", "Snapdragon 8+ Gen 1", "144Hz AMOLED", "50MP camera"],
+      "manufacturer": {
+        "id": 109,
+        "name": "Realme",
+        "country": "China",
+        "foundedYear": 2018,
+        "logoUrl": "https://example.com/realme-logo.jpg",
+        "isPublic": true
+      }
+    },
+    {
+      "id": 10,
+      "name": "Asus ROG Phone 6",
+      "description": "Een gaming-smartphone met een 165Hz AMOLED-scherm en geavanceerde koeling.",
+      "price": 1199.00,
+      "isAvailable": true,
+      "releaseDate": "2022-07-05",
+      "imageUrl": "https://example.com/rog-phone-6.jpg",
+      "category": "Gaming",
+      "features": ["165Hz AMOLED", "Snapdragon 8+ Gen 1", "AirTrigger knoppen", "6000mAh batterij"],
+      "manufacturer": {
+        "id": 110,
+        "name": "Asus",
+        "country": "Taiwan",
+        "foundedYear": 1989,
+        "logoUrl": "https://example.com/asus-logo.jpg",
+        "isPublic": true
+      }
+    }
+  ]

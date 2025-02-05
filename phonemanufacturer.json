@@ -1,0 +1,83 @@
+[
+    {
+      "id": 101,
+      "name": "Samsung",
+      "country": "Zuid-Korea",
+      "foundedYear": 1938,
+      "logoUrl": "https://example.com/samsung-logo.jpg",
+      "isPublic": true
+    },
+    {
+      "id": 102,
+      "name": "Apple",
+      "country": "Verenigde Staten",
+      "foundedYear": 1976,
+      "logoUrl": "https://example.com/apple-logo.jpg",
+      "isPublic": true
+    },
+    {
+      "id": 103,
+      "name": "Google",
+      "country": "Verenigde Staten",
+      "foundedYear": 1998,
+      "logoUrl": "https://example.com/google-logo.jpg",
+      "isPublic": true
+    },
+    {
+      "id": 104,
+      "name": "OnePlus",
+      "country": "China",
+      "foundedYear": 2013,
+      "logoUrl": "https://example.com/oneplus-logo.jpg",
+      "isPublic": true
+    },
+    {
+      "id": 105,
+      "name": "Xiaomi",
+      "country": "China",
+      "foundedYear": 2010,
+      "logoUrl": "https://example.com/xiaomi-logo.jpg",
+      "isPublic": true
+    },
+    {
+      "id": 106,
+      "name": "Sony",
+      "country": "Japan",
+      "foundedYear": 1946,
+      "logoUrl": "https://example.com/sony-logo.jpg",
+      "isPublic": true
+    },
+    {
+      "id": 107,
+      "name": "Motorola",
+      "country": "Verenigde Staten",
+      "foundedYear": 1928,
+      "logoUrl": "https://example.com/motorola-logo.jpg",
+      "isPublic": true
+    },
+    {
+      "id": 108,
+      "name": "Nothing",
+      "country": "Verenigd Koninkrijk",
+      "foundedYear": 2020,
+      "logoUrl": "https://example.com/nothing-logo.jpg",
+      "isPublic": true
+    },
+    {
+      "id": 109,
+      "name": "Realme",
+      "country": "China",
+      "foundedYear": 2018,
+      "logoUrl": "https://example.com/realme-logo.jpg",
+      "isPublic": true
+    },
+    {
+      "id": 110,
+      "name": "Asus",
+      "country": "Taiwan",
+      "foundedYear": 1989,
+      "logoUrl": "https://example.com/asus-logo.jpg",
+      "isPublic": true
+    }
+  ]
+  
