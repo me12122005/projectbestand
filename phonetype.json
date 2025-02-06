@@ -6,7 +6,7 @@
       "price": 899.99,
       "isAvailable": true,
       "releaseDate": "2023-02-01",
-      "imageUrl": "https://example.com/galaxy-s23.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/me12122005/projectbestand/refs/heads/master/images/galaxy-s23.jpg",
       "category": "Flagship",
       "features": ["5G", "AMOLED-scherm", "120Hz refresh rate", "5000mAh batterij"],
       "manufacturer": {
@@ -14,7 +14,7 @@
         "name": "Samsung",
         "country": "Zuid-Korea",
         "foundedYear": 1938,
-        "logoUrl": "https://example.com/samsung-logo.jpg",
+        "logoUrl": "https://raw.githubusercontent.com/me12122005/projectbestand/refs/heads/master/images/samsung-logo.jpg",
         "isPublic": true
       }
     },
@@ -25,7 +25,7 @@
       "price": 1099.00,
       "isAvailable": true,
       "releaseDate": "2022-09-16",
-      "imageUrl": "https://example.com/iphone-14-pro.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/me12122005/projectbestand/refs/heads/master/images/iphone-14-pro.jpg",
       "category": "Flagship",
       "features": ["A16 Bionic-chip", "ProMotion 120Hz", "48MP camera", "iOS 16"],
       "manufacturer": {
@@ -33,7 +33,7 @@
         "name": "Apple",
         "country": "Verenigde Staten",
         "foundedYear": 1976,
-        "logoUrl": "https://example.com/apple-logo.jpg",
+        "logoUrl": "https://raw.githubusercontent.com/me12122005/projectbestand/refs/heads/master/images/apple-logo.jpg",
         "isPublic": true
       }
     },
@@ -44,7 +44,7 @@
       "price": 649.00,
       "isAvailable": true,
       "releaseDate": "2022-10-13",
-      "imageUrl": "https://example.com/pixel-7.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/me12122005/projectbestand/refs/heads/master/images/pixel-7.jpg",
       "category": "Mid-range",
       "features": ["Stock Android", "Tensor G2", "50MP camera", "IP68-certificering"],
       "manufacturer": {
@@ -52,7 +52,7 @@
         "name": "Google",
         "country": "Verenigde Staten",
         "foundedYear": 1998,
-        "logoUrl": "https://example.com/google-logo.jpg",
+        "logoUrl": "https://raw.githubusercontent.com/me12122005/projectbestand/refs/heads/master/images/google-logo.jpg",
         "isPublic": true
       }
     },
@@ -63,7 +63,7 @@
       "price": 799.00,
       "isAvailable": true,
       "releaseDate": "2023-01-09",
-      "imageUrl": "https://example.com/oneplus-11.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/me12122005/projectbestand/refs/heads/master/images/oneplus-11.jpg",
       "category": "Flagship",
       "features": ["120Hz AMOLED", "Hasselblad camera", "Snapdragon 8 Gen 2", "5000mAh batterij"],
       "manufacturer": {
@@ -71,7 +71,7 @@
         "name": "OnePlus",
         "country": "China",
         "foundedYear": 2013,
-        "logoUrl": "https://example.com/oneplus-logo.jpg",
+        "logoUrl": "https://raw.githubusercontent.com/me12122005/projectbestand/refs/heads/master/images/oneplus-logo.jpg",
         "isPublic": true
       }
     },
@@ -82,7 +82,7 @@
       "price": 899.00,
       "isAvailable": true,
       "releaseDate": "2023-03-10",
-      "imageUrl": "https://example.com/xiaomi-13-pro.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/me12122005/projectbestand/refs/heads/master/images/xiaomi-13-pro.jpg",
       "category": "Flagship",
       "features": ["Leica camera's", "Snapdragon 8 Gen 2", "120Hz LTPO", "120W snelladen"],
       "manufacturer": {
@@ -90,7 +90,7 @@
         "name": "Xiaomi",
         "country": "China",
         "foundedYear": 2010,
-        "logoUrl": "https://example.com/xiaomi-logo.jpg",
+        "logoUrl": "https://raw.githubusercontent.com/me12122005/projectbestand/refs/heads/master/images/xiaomi-logo.jpg",
         "isPublic": true
       }
     },
@@ -101,7 +101,7 @@
       "price": 1199.00,
       "isAvailable": false,
       "releaseDate": "2022-06-15",
-      "imageUrl": "https://example.com/xperia-1-iv.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/me12122005/projectbestand/refs/heads/master/images/xperia-1-iv.jpg",
       "category": "Flagship",
       "features": ["4K OLED 120Hz", "Zeiss camera's", "3.5mm jack", "IP68-certificering"],
       "manufacturer": {
@@ -109,7 +109,7 @@
         "name": "Sony",
         "country": "Japan",
         "foundedYear": 1946,
-        "logoUrl": "https://example.com/sony-logo.jpg",
+        "logoUrl": "https://raw.githubusercontent.com/me12122005/projectbestand/refs/heads/master/images/sony-logo.jpg",
         "isPublic": true
       }
     },
@@ -120,7 +120,7 @@
       "price": 999.00,
       "isAvailable": true,
       "releaseDate": "2022-09-08",
-      "imageUrl": "https://example.com/motorola-edge-30-ultra.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/me12122005/projectbestand/refs/heads/master/images/motorola-edge-30-ultra.jpg",
       "category": "Flagship",
       "features": ["200MP camera", "Snapdragon 8+ Gen 1", "144Hz OLED", "125W snelladen"],
       "manufacturer": {
@@ -128,7 +128,7 @@
         "name": "Motorola",
         "country": "Verenigde Staten",
         "foundedYear": 1928,
-        "logoUrl": "https://example.com/motorola-logo.jpg",
+        "logoUrl": "https://raw.githubusercontent.com/me12122005/projectbestand/refs/heads/master/images/motorola-logo.jpg",
         "isPublic": true
       }
     },
@@ -139,7 +139,7 @@
       "price": 469.00,
       "isAvailable": true,
       "releaseDate": "2022-07-12",
-      "imageUrl": "https://example.com/nothing-phone-1.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/me12122005/projectbestand/refs/heads/master/images/nothing-phone-1.jpg",
       "category": "Mid-range",
       "features": ["Glyph Interface", "120Hz OLED", "Stock Android", "50MP camera"],
       "manufacturer": {
@@ -147,7 +147,7 @@
         "name": "Nothing",
         "country": "Verenigd Koninkrijk",
         "foundedYear": 2020,
-        "logoUrl": "https://example.com/nothing-logo.jpg",
+        "logoUrl": "https://raw.githubusercontent.com/me12122005/projectbestand/refs/heads/master/images/nothing-logo.jpg",
         "isPublic": true
       }
     },
@@ -158,7 +158,7 @@
       "price": 599.00,
       "isAvailable": true,
       "releaseDate": "2023-04-15",
-      "imageUrl": "https://example.com/realme-gt-3.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/me12122005/projectbestand/refs/heads/master/images/realme-gt-3.jpg",
       "category": "Mid-range",
       "features": ["240W snelladen", "Snapdragon 8+ Gen 1", "144Hz AMOLED", "50MP camera"],
       "manufacturer": {
@@ -166,7 +166,7 @@
         "name": "Realme",
         "country": "China",
         "foundedYear": 2018,
-        "logoUrl": "https://example.com/realme-logo.jpg",
+        "logoUrl": "https://raw.githubusercontent.com/me12122005/projectbestand/refs/heads/master/images/realme-logo.jpg",
         "isPublic": true
       }
     },
@@ -177,7 +177,7 @@
       "price": 1199.00,
       "isAvailable": true,
       "releaseDate": "2022-07-05",
-      "imageUrl": "https://example.com/rog-phone-6.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/me12122005/projectbestand/refs/heads/master/images/rog-phone-6.jpg",
       "category": "Gaming",
       "features": ["165Hz AMOLED", "Snapdragon 8+ Gen 1", "AirTrigger knoppen", "6000mAh batterij"],
       "manufacturer": {
@@ -185,7 +185,7 @@
         "name": "Asus",
         "country": "Taiwan",
         "foundedYear": 1989,
-        "logoUrl": "https://example.com/asus-logo.jpg",
+        "logoUrl": "https://raw.githubusercontent.com/me12122005/projectbestand/refs/heads/master/images/asus-logo.jpg",
         "isPublic": true
       }
     }
